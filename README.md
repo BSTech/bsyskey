@@ -1,3 +1,3 @@
 # bsyskey
 Fake Syskey you can use for "trolling" scammers
-https://software.bste.ch/syskey/
+https://software.bstechcomputing.net/syskey/
