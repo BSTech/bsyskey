@@ -1,7 +1,7 @@
 /*
 
 Fake Syskey with REAL resources, by BSTech.
-https://software.bste.ch/syskey/
+https://software.bstechcomputing.net/syskey/
 18.11.2019
 
 Resource IDs taken by using Resource Hacker program.
