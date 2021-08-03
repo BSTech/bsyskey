@@ -69,7 +69,6 @@ INT_PTR __stdcall D1(HWND h, UINT m, WPARAM w, LPARAM l)
 	{
 		switch (LOWORD(w))
 		{
-			case 1:
 			case 2:
 				PostQuitMessage(0);
 				break;
